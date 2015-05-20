@@ -5,5 +5,5 @@ print('podasj pierwsza liczbe:')
 a = int(input())
 print('podaj druga liczbe')
 b = int(input())
-dodawanie()
+print(dodawanie(a,b))
 
